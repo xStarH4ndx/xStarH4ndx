@@ -1,0 +1,39 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#050505"/>
+    <stop offset="55%" stop-color="#0d1117"/>
+    <stop offset="100%" stop-color="#151515"/>
+  </linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#6ee7b7"/>
+    <stop offset="50%" stop-color="#60a5fa"/>
+    <stop offset="100%" stop-color="#c084fc"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+
+<rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+<g opacity=".22" stroke="#8b949e">
+  <path d="M0 70H1200M0 140H1200M0 210H1200M0 280H1200"/>
+  <path d="M100 0V320M200 0V320M300 0V320M400 0V320M500 0V320M600 0V320M700 0V320M800 0V320M900 0V320M1000 0V320M1100 0V320"/>
+</g>
+
+<circle cx="1030" cy="78" r="130" fill="none" stroke="#60a5fa" opacity=".12"/>
+<circle cx="1030" cy="78" r="92" fill="none" stroke="#c084fc" opacity=".14"/>
+<circle cx="1030" cy="78" r="54" fill="none" stroke="#6ee7b7" opacity=".18"/>
+
+<text x="70" y="105" fill="#8b949e" font-family="monospace" font-size="18">~/xStarH4ndx</text>
+<text x="70" y="160" fill="#f0f6fc" font-family="Arial, sans-serif" font-weight="700" font-size="48">BRUNO TORO ELGUETA</text>
+<text x="73" y="200" fill="#8b949e" font-family="monospace" font-size="21">software engineer · full stack · AI</text>
+
+<rect x="70" y="238" width="410" height="3" rx="2" fill="url(#line)" filter="url(#glow)"/>
+<text x="70" y="274" fill="#6ee7b7" font-family="monospace" font-size="16">$ build useful things</text>
+<text x="70" y="298" fill="#8b949e" font-family="monospace" font-size="14">React · .NET · TypeScript · LLMs · RAG</text>
+
+<g transform="translate(875 175)" fill="none" stroke="url(#line)" stroke-width="2">
+  <path d="M0 0L65 -38L130 0L65 38Z"/>
+  <path d="M0 0L65 38L130 0"/>
+  <path d="M65 -38V38"/>
+</g>
+</svg>
