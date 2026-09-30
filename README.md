@@ -12,7 +12,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-xStarH4ndx-181717?style=for-the-badge&logo=github)](https://github.com/xStarH4ndx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bruno-toro-elgueta/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Web-111827?style=for-the-badge&logo=googlechrome)](REEMPLAZA_CON_TU_PORTFOLIO)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Web-111827?style=for-the-badge&logo=googlechrome)](https://www.linkedin.com/in/bruno-toro-elgueta/)
 
 </div>
 
